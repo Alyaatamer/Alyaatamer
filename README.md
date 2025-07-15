@@ -36,7 +36,7 @@
 
 <h3 align="left">HackerRank Badges:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/profile/alyaatamer88" target="_blank" rel="noreferrer">
-    <img src="https://hrcdn.net/fcore/assets/badges/sql-89e76e7082.svg" alt="SQL Badge" width="100" />
+  <a href="https://www.hackerrank.com/profile/alyaatamer88" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/SQL_badge.png" alt="SQL Badge" width="100" />
   </a>
 </p>
